@@ -8,6 +8,6 @@ public class MyClass1 {
 		System.out.println("Pom.xml");
 		System.out.println("Utilities");
 		System.out.println("Resources");
-		System.out.println("Suite");
+		System.out.println("Suitee");
 	}
 	}
